@@ -4,35 +4,35 @@ This Unity-based application is designed to enhance the Dungeons & Dragons (DnD)
 
 ## Features
 ### Main Menu
-Create a Character: Start the adventure by creating a new DnD character with customized attributes.
-Load a Character: Access previously saved characters. This option is enabled only if saved characters are available.
-Settings: Customize the user preferences including music and sound effect volumes.
-Quit: Exit the application.
+- Create a Character: Start the adventure by creating a new DnD character with customized attributes.
+- Load a Character: Access previously saved characters. This option is enabled only if saved characters are available.
+- Settings: Customize the user preferences including music and sound effect volumes.
+- Quit: Exit the application.
 ### Character Management
-Character Creation: Users can create up to five characters, specifying details such as name, race, and class.
-Character Editing and Deletion: Modify or remove existing characters easily.
-Persistent Storage: Characters are saved locally to ensure they can be accessed in future sessions.
+- Character Creation: Users can create up to five characters, specifying details such as name, race, and class.
+- Character Editing and Deletion: Modify or remove existing characters easily.
+- Persistent Storage: Characters are saved locally to ensure they can be accessed in future sessions.
 ### Settings
-Music Volume Control: Adjust the background music volume using a slider.
-Sound Effects Volume Control: Adjust the sound effects volume using a slider.
-Save Preferences: Save the user’s audio preferences.
-Return to Main Menu: Navigate back to the main menu.
+- Music Volume Control: Adjust the background music volume using a slider.
+- Sound Effects Volume Control: Adjust the sound effects volume using a slider.
+- Save Preferences: Save the user’s audio preferences.
+- Return to Main Menu: Navigate back to the main menu.
 ### LAN Multiplayer
-Join Sessions: Connect with other players over a local area network (LAN) to manage characters and combat collaboratively.
-Real-Time Synchronization: Character data and combat status are synchronized across all connected clients.
+- Join Sessions: Connect with other players over a local area network (LAN) to manage characters and combat collaboratively.
+- Real-Time Synchronization: Character data and combat status are synchronized across all connected clients.
 ### Combat Tracker
-Track Combat Stats: Manage and monitor combat-related statistics such as health and initiative.
-Dynamic Updates: Real-time updates of combat status during multiplayer sessions.
+- Track Combat Stats: Manage and monitor combat-related statistics such as health and initiative.
+- Dynamic Updates: Real-time updates of combat status during multiplayer sessions.
 ### Audio Management
-Audio Manager: Centralized control for managing background music and sound effects.
-Button Click Sounds: Interactive sound effects play when buttons are pressed.
+- Audio Manager: Centralized control for managing background music and sound effects.
+- Button Click Sounds: Interactive sound effects play when buttons are pressed.
 ## Getting Started
 ### Prerequisites
 - Unity 2019.4 or later
 - Mirror Networking package for LAN multiplayer functionality (available via Unity Asset Store)
 ### Installation
 1- Clone the repository:
-git clone https://github.com/yourusername/DnD-Character-Sheet-App.git
+git clone https://github.com/yourusername/Dungeon-and-Dragon-Character-Maker.git
 2- Open the project in Unity.
 3- Ensure all necessary packages are installed.
 4- Build and run the project.
